@@ -1,0 +1,2 @@
+# SpaceInvadersWorkSample
+This is a work sample for [company]. The task is to create a simple Space Invaders game using the built in features in Unity. The goal is not to create a polished game. Focus should be spent on writing code that is representative for your way of coding for a game in production, caring for things such as memory allocation/deallocation, performance, code structure/complexity.
