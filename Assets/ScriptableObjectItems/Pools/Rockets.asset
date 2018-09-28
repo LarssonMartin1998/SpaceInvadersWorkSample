@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dbe65cb53dd7be4cbcc218e2ecc9322, type: 3}
+  m_Name: Rockets
+  m_EditorClassIdentifier: 
+  type: 1
+  groupName: Rockets
+  prefab: {fileID: 1855445088504340, guid: bd9f7bfa67912f340b5bc933e3469c2a, type: 2}
+  amount: 10
