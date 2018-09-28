@@ -43,7 +43,7 @@ UnityPlayer.dll
 
 # Build data
 /Mono/
-*/SpaceInvaders_Data/
+/SpaceInvaders_Data/
 
 ############################
 # Windows ignore stuff
